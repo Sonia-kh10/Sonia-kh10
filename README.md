@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects and network infrastructure initiatives.
 - 📫 How to reach me You can contact me via email : khelifsonia12@gmail.com  or connect with me on LinkedIn : https://www.linkedin.com/in/sonia-khelif-826a56324/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love solving puzzles and challenges, whether they’re in code or in real life!
 
 <!---
 Sonia-kh10/Sonia-kh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
